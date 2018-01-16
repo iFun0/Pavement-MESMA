@@ -2,6 +2,6 @@
 Using Multiple Endmembers Spectral Mixture Analysis (MESMA) model to detect asphalt pavement condition
 
 
-Pavement-MESMA/images/3.png
+![Image text](https://raw.githubusercontent.com/iFun0/Pavement-MESMA/master/images/1.png)
 
 
