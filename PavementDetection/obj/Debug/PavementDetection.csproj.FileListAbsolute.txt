@@ -1,0 +1,36 @@
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\bin\Debug\PavementDetection.exe.config
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\bin\Debug\PavementDetection.exe
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\bin\Debug\PavementDetection.pdb
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\obj\Debug\PavementDetection.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\obj\Debug\PavementDetection.Properties.Resources.resources
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\obj\Debug\PavementDetection.csproj.GenerateResource.Cache
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\obj\Debug\PavementDetection.exe
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\obj\Debug\PavementDetection.pdb
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\obj\Debug\PavementDetection.EMCollection.resources
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\obj\Debug\PavementDetection.MainForm.resources
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\obj\Debug\PavementDetection.MESMAForm.resources
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\obj\Debug\PavementDetection.EAROpt.resources
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\obj\Debug\PavementDetection.SlopeIndexForm.resources
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\obj\Debug\Interop.COM_IDL_connectLib.dll
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\obj\Debug\PavementDetection.csproj.ResolveComReference.cache
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\bin\Debug\MathNet.Numerics.dll
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\bin\Debug\System.Windows.Forms.Ribbon35.dll
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\bin\Debug\MathNet.Numerics.xml
+E:\Visual Studio 2012 Test\PavementDetection\PavementDetection\obj\Debug\PavementDetection.TXTFileBuild.resources
+E:\Project-Programming\PavementDetection\PavementDetection\bin\Debug\PavementDetection.exe.config
+E:\Project-Programming\PavementDetection\PavementDetection\obj\Debug\PavementDetection.exe
+E:\Project-Programming\PavementDetection\PavementDetection\obj\Debug\PavementDetection.pdb
+E:\Project-Programming\PavementDetection\PavementDetection\bin\Debug\PavementDetection.exe
+E:\Project-Programming\PavementDetection\PavementDetection\bin\Debug\PavementDetection.pdb
+E:\Project-Programming\PavementDetection\PavementDetection\bin\Debug\MathNet.Numerics.dll
+E:\Project-Programming\PavementDetection\PavementDetection\bin\Debug\System.Windows.Forms.Ribbon35.dll
+E:\Project-Programming\PavementDetection\PavementDetection\bin\Debug\MathNet.Numerics.xml
+E:\Project-Programming\PavementDetection\PavementDetection\obj\Debug\PavementDetection.csprojResolveAssemblyReference.cache
+E:\Project-Programming\PavementDetection\PavementDetection\obj\Debug\PavementDetection.EAROpt.resources
+E:\Project-Programming\PavementDetection\PavementDetection\obj\Debug\PavementDetection.EMCollection.resources
+E:\Project-Programming\PavementDetection\PavementDetection\obj\Debug\PavementDetection.MainForm.resources
+E:\Project-Programming\PavementDetection\PavementDetection\obj\Debug\PavementDetection.MESMAForm.resources
+E:\Project-Programming\PavementDetection\PavementDetection\obj\Debug\PavementDetection.Properties.Resources.resources
+E:\Project-Programming\PavementDetection\PavementDetection\obj\Debug\PavementDetection.TXTFileBuild.resources
+E:\Project-Programming\PavementDetection\PavementDetection\obj\Debug\PavementDetection.csproj.GenerateResource.Cache
+E:\Project-Programming\PavementDetection\PavementDetection\obj\Debug\PavementDetection.AgingReport.resources
